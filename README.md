@@ -1,6 +1,4 @@
-# angular 5 Generic data-table component using Angular Material 5
-
-Find the explanation on [medium](https://medium.com/@lavadukanam/building-a-generic-data-table-component-in-angular-5-with-material-5-8417cb8f0ce6)
+# angular 5 Generic Data-Table Component using Angular Material 5
 
 ## Development server
 
