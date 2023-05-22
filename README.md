@@ -1,4 +1,4 @@
-# angular 5 Generic Data-Table Component using Angular Material 5
+# Angular 5 Generic Data-Table Component using Angular Material 5
 
 ## Development server
 
